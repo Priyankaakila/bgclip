@@ -1,0 +1,33 @@
+body{
+    background-color: aqua;
+    
+    font-weight: bolder;
+    font-family: 'Dancing Script', cursive;
+    color: white;
+  
+}
+div{
+    font-size: 40px;
+    width: 100%;
+    height: 100%;
+    background-image: url(d1.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+#bgclip{
+    color: transparent;
+   
+    font-variant: small-caps;
+    font-size: 100px;
+    text-align: center;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWaxcuPV3r0NxePIL0srnL85yUh1wKaVCx7g&usqp=CAU);
+    -webkit-background-clip: text;
+}
+.clip{
+    font-size: 200px;
+    font-variant: small-caps;
+    text-align: center;
+    color: transparent;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/030/637/632/large_2x/diwali-background-image-hd-free-photo.jpg);
+    -webkit-background-clip: text;
+}
